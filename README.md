@@ -68,3 +68,13 @@ To build contracts: `forge build`
 To run all tests: `forge test`
 
 Set `-vvv` to see a stack trace for a failed test.
+
+---
+
+## 🧪 Local development (Foundry quickstart)
+
+### Prerequisites
+- Install Foundry:
+```bash
+curl -L https://foundry.paradigm.xyz | bash
+foundryup
